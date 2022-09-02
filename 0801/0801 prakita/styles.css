@@ -1,0 +1,24 @@
+header{
+    text-align:center;
+}
+header img{
+    width:200px;
+}
+nav{
+    background-color:rgb(26, 98, 26);
+    color:white;
+    padding: 20px;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    margin: 15px;
+}
+section img{
+    width: 100%;
+    height: 400px
+}
+.headings{
+    color:white;
+    background-color:rgb(26,98,26)
+}
